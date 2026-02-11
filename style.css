@@ -50,7 +50,7 @@ main {
     font-family: 'Georgia', 'Times New Roman', serif; 
     font-style: italic;
     color: #2c2c2c;
-    font-size: 19px;
+    font-size: 40px;
     padding: 20px;
     margin: 10px 0;
 }
@@ -85,4 +85,5 @@ footer {
     border-top: 2px solid #F2C438;
     color: #121212;
 }
+
 
