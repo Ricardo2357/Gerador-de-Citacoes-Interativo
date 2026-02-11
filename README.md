@@ -26,7 +26,7 @@ Visite o site aqui:
 
 ```
 ├── images/
-│   └── preview-gerador-de-citacoes.png.jpg
+│   └── preview-gerador-de-citacoes.png
 ├── LICENSE
 ├── README.md
 ├── app.js
