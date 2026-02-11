@@ -16,19 +16,6 @@ O objetivo deste site é melhorar minhas habilidades em Javascript. Ele foi dese
 - CSS3 - Design.
 - JavaScript – Lógica e interatividade.
 
-## Instalação e Pré-requisitos
-
-### Pré-requisitos
-
-- Navegador Web (Chrome, Firefox, Edge);
-- Node.js na versão LTS;
-- Sistema operacional Windows, Linux ou macOS.
-
-### Passos para Instalar
-
-1. Baixe ou clone o projeto;
-2. Verifique se você possui um Navegador Web e Node.js instalado no computador.
-
 ## Link de Acesso
 
 Visite o site aqui:
