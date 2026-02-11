@@ -1,0 +1,88 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: #FDFBD4;
+    padding: 12px 133px;
+    border-bottom: 2px solid #F2C438;
+    color: #121212;
+}
+
+.logo {
+    display: flex;        
+    align-items: center;   
+    gap: 10px;
+}
+
+#emoji {
+    font-size: 40px;
+    margin-bottom: 5px;
+}
+
+#titulo {
+    font-size: 25px;
+}
+
+main {
+    display: flex;          
+    justify-content: center; 
+    align-items: center;  
+    height: 517px;
+    background-color:  #fffefef5;
+}
+
+.conteudo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#quote-text {
+    position: relative;
+    text-align: center;
+    font-family: 'Georgia', 'Times New Roman', serif; 
+    font-style: italic;
+    color: #2c2c2c;
+    font-size: 40px;
+    padding: 20px;
+    margin: 10px 0;
+}
+
+#new-quote-button {
+    padding: 8px;
+    font-size: 28px;
+    color: #2c2c2c;
+    background-color: #f2c338;
+    border: 2px solid #886e1f;
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+    border-radius: 13px;
+}
+
+#new-quote-button:hover {
+    background-color: #dbb030;
+    border: 2px solid ;
+    transform: scale(1.05);
+}
+
+#new-quote-button:active {
+    transform: scale(0.95);
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: #FDFBD4;
+    padding: 10px;
+    font-size: 16px;
+    border-top: 2px solid #F2C438;
+    color: #121212;
+}
+
