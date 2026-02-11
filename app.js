@@ -28,7 +28,7 @@ button.addEventListener('click', async function() {
         position: "right",
         stopOnFocus: true,
         style: { 
-            background: "#F1D06D",
+            background: "#F7E09D",
             color: "#000000"
         }
     }).showToast();
@@ -47,4 +47,5 @@ button.addEventListener('click', async function() {
     } finally {
         button.disabled = false;
     }
+
 });
