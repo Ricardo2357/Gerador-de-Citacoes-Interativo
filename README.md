@@ -25,7 +25,7 @@ https://ricardo2357.github.io/Gerador-de-Citacoes/
 ## Estrutura do Projeto
 
 ```
-Gerador-de-Citações/
+Gerador-de-Citações-Interativo/
 ├── images/
 │   └── preview-gerador-de-citacoes.png
 ├── LICENSE
