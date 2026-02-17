@@ -1,4 +1,4 @@
-# Gerador-de-Citacoes-em-Javascript
+# Gerador-de-Citacoes-Interativo
 
 Este projeto consiste em um Gerenciador de Citações feito atravéz de HTML5, CSS3 e JavaScript. O projeto utiliza animações, por meio da biblioteca externa GSAP, e um sistema de notificações, por meio da biblioteca externa Toastify.js, para simular requisições a um servidor.
 
@@ -25,6 +25,7 @@ https://ricardo2357.github.io/Gerador-de-Citacoes/
 ## Estrutura do Projeto
 
 ```
+Gerador-de-Citações/
 ├── images/
 │   └── preview-gerador-de-citacoes.png
 ├── LICENSE
